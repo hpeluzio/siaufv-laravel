@@ -1,0 +1,22 @@
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+// Variables
+@import "variables";
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+.m-b-sm {
+  margin-bottom: 14px !important;
+}
+
+.m-t-md {
+  margin-top: 23px !important;
+}
+
+.a-75 {
+  background-color: rgba(255, 255, 255, 0.75) !important;
+}
+
+.efetuado {
+  color: #1678c2 !important;
+}
